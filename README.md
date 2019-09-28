@@ -36,8 +36,9 @@ npm i --save messaging-api-telegram-proxy
 ```js
 const { TelegramClient } = require('messaging-api-telegram-proxy');
 
-// get accessToken from telegram [@BotFather](https://telegram.me/BotFather)
-const client = TelegramClient.connect('12345678:AaBbCcDdwhatever');
+let telegram_access_token = '12345678:AaBbCcDdwhatever'// get accessToken from telegram [@BotFather](https://telegram.me/BotFather)
+let proxy_http = 'http://login:pass@127.0.0.1:1234'
+const client = TelegramClient.connect(telegram_access_token, proxy_http);
 ```
 
 ### Error Handling
