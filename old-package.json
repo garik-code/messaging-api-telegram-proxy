@@ -1,0 +1,36 @@
+{
+  "bugs": {
+    "url": "https://github.com/garik-code/messaging-api-telegram-proxy/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "axios-error": "^0.8.1",
+    "debug": "^4.1.1",
+    "https-proxy-agent": "^2.2.2",
+    "lodash.omit": "^4.5.0",
+    "url-join": "^4.0.1"
+  },
+  "description": "Messaging API client for Telegram use proxy",
+  "devDependencies": {
+    "axios-mock-adapter": "^1.17.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "homepage": "https://github.com/garik-code/messaging-api-telegram-proxy#readme",
+  "keywords": [
+    "bot",
+    "chatbot",
+    "messaging-apis",
+    "telegram",
+    "proxy"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "messaging-api-telegram-proxy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garik-code/messaging-api-telegram-proxy"
+  },
+  "version": "0.8.2"
+}
