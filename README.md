@@ -1,4 +1,4 @@
-<a href="https://www.npmjs.com/package/messaging-api-telegram-proxy" target="_blank"><img src="https://nodei.co/npm/api-amg.png?compact=true" /></a>
+<a href="https://www.npmjs.com/package/messaging-api-telegram-proxy" target="_blank"><img src="https://nodei.co/npm/messaging-api-telegram-proxy.png?compact=true" /></a>
 
 # messaging-api-telegram-proxy
 
