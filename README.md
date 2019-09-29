@@ -1,3 +1,5 @@
+<a href="https://www.npmjs.com/package/messaging-api-telegram-proxy" target="_blank"><img src="https://nodei.co/npm/api-amg.png?compact=true" /></a>
+
 # messaging-api-telegram-proxy
 
 > Messaging API client for Telegram use proxy
