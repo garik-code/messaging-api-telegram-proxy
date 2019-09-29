@@ -2,9 +2,7 @@
 
 > Messaging API client for Telegram use proxy
 
-> Forked: https://github.com/Yoctol/messaging-apis
-
-<img src="https://s1.mayki.kz/catalog_img/15776/mousepad_square/1_6_design.png" alt="Telegram" width="150" /><img src="https://telegram.org/img/t_logo.png" alt="Telegram" width="150" />
+<img src="https://s1.mayki.kz/catalog_img/15776/mousepad_square/1_6_design.png" alt="Telegram" width="150" /><img src="https://telegram.org/img/t_logo.png" alt="Telegram" width="100" />
 
 ## Table of Contents
 
@@ -22,6 +20,8 @@
   - [Others](#others)
 - [Debug Tips](#debug-tips)
 - [Test](#test)
+
+> Forked: https://github.com/Yoctol/messaging-apis
 
 ## Installation
 
