@@ -49,8 +49,6 @@ class TelegramClient {
       this._onRequest = onRequest;
     }
 
-    console.log(`this._proxy ${this._proxy}`);
-
     let agent = new httpsProxyAgent(this._proxy)
 
     this._axios = _axios.default.create({
